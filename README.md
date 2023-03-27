@@ -16,5 +16,5 @@ We also made a trailer video for our game. You can watch it from down below.
 
 
 
-Contributers
+## Contributers
 @aleynaalemdar
