@@ -1,6 +1,5 @@
 # Make Java Great Again!
-
-This project is made for CMPE114 Java project in a freshman year on TED University.  
+We participated in Global Game Jam 2023, and after some effort, here is our final game.
 
 We named our game after discovering how Java was being excluded in terms of gaming. We believe, Java should still have a value among other gaming tools. And we're here to make Java great again!
 
@@ -17,3 +16,5 @@ We also made a trailer video for our game. You can watch it from down below.
 
 
 
+Contributers
+@aleynaalemdar
