@@ -2,5 +2,15 @@
 Our team participated in Global Game Jam 2023, and within 48 hours, we created a Java game.
 
 
-[![logan paul](https://res.cloudinary.com/marcomontalbano/image/upload/v1653470941/video_to_markdown/images/youtube--6UP4jpDv2tU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=FIVzREhIhUY)
+# Super Mario Bros Java Project
+
+This project is made for CMPE114 Java project in a freshman year on TED University. This game has 3 levels, live-coin-score-timer system, mobs like goombas and koopas, pipes, main menu system, presentation mode system for restricting access to other levels and collision detection system which can be buggy sometimes. 
+
+## Video
+
+I edited a video for showing the evolution of this Mario game project in days. You can watch it from down below.
+
+
+
+[![Make Java Great Again!]()](https://www.youtube.com/watch?v=FIVzREhIhUY)
 
