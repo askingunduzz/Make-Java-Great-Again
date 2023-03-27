@@ -2,5 +2,5 @@
 Our team participated in Global Game Jam 2023, and within 48 hours, we created a Java game.
 
 
-[![logan paul](https://asset.cloudinary.com/dcgso6wsi/a3b1ca8c7587c324c78463375b4d6080)](https://www.youtube.com/watch?v=FIVzREhIhUY)
+[![logan paul](https://res.cloudinary.com/marcomontalbano/image/upload/v1653470941/video_to_markdown/images/youtube--6UP4jpDv2tU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=FIVzREhIhUY)
 
