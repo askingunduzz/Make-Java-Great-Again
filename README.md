@@ -12,7 +12,10 @@ We wish you a bad luck so that you don't end the world!
 We also made a trailer video for our game. You can watch it from down below.
 
 
-[![Make Java Great Again!][https://snipboard.io/U69fs0.jpg](https://www.youtube.com/watch?v=WWGPPHXyAvI&t=14s) _______________________________
+[![How Our Mario Game is Done?](https://snipboard.io/U69fs0.jpg)](https://www.youtube.com/watch?v=WWGPPHXyAvI&t=14s)
+
+
+[![Make Java Great Again!](https://snipboard.io/U69fs0.jpg) _______________________________
 
 ## Contributers
 @aleynaalemdar
