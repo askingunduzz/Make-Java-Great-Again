@@ -21,4 +21,3 @@ We also made a trailer video for our game. You can watch it from down below.
   <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
 </a>
 
-Made with [contributors-img](https://contrib.rocks).
