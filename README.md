@@ -17,7 +17,6 @@ We also made a trailer video for our game. You can watch it from down below.
 
 
 ## Contributers
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
-</a>
+@aleynaalemdar
+@asligungor
 
