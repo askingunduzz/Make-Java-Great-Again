@@ -12,7 +12,7 @@ We wish you a bad luck so that you don't end the world!
 We also made a trailer video for our game. You can watch it from down below.
 
 
-[![Make Java Great Again!](https://res.cloudinary.com/marcomontalbano/image/upload/v1653470941/video_to_markdown/images/youtube--6UP4jpDv2tU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=WWGPPHXyAvI&t=14s)         
+[![Make Java Great Again!](https://snipboard.io/vDg1Nj.jpg)](https://www.youtube.com/watch?v=WWGPPHXyAvI&t=14s)         
 
 
 
